@@ -1,0 +1,2 @@
+C:\Users\Skapar\source\repos\LibraryPracticeV02\LibraryPracticeV02\obj\Debug\LibraryPracticeV02.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\LibraryPracticeV02\LibraryPracticeV02\obj\Debug\LibraryPracticeV02.csproj.CoreCompileInputs.cache

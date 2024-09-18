@@ -1,0 +1,2 @@
+C:\Users\Skapar\source\repos\LibraryPracticeV02\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\LibraryPracticeV02\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
