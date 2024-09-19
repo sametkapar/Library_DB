@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CADB496-5454-4839-A594-121607AE0EE4}|KutuKutuKutuphane\\KutuKutuKutuphane.csproj|c:\\users\\skapar\\source\\repos\\kutukutukutuphane\\kutukutukutuphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CADB496-5454-4839-A594-121607AE0EE4}|KutuKutuKutuphane\\KutuKutuKutuphane.csproj|c:\\users\\user\\desktop\\library_db-main\\kutukutukutuphane\\kutukutukutuphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CADB496-5454-4839-A594-121607AE0EE4}|KutuKutuKutuphane\\KutuKutuKutuphane.csproj|solutionrelative:kutukutukutuphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|c:\\users\\skapar\\source\\repos\\kutukutukutuphane\\datalayeraccess\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\datalayeraccess\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|solutionrelative:datalayeraccess\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|c:\\users\\skapar\\source\\repos\\kutukutukutuphane\\datalayeraccess\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\datalayeraccess\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|solutionrelative:datalayeraccess\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|c:\\users\\skapar\\source\\repos\\kutukutukutuphane\\datalayeraccess\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\datalayeraccess\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|solutionrelative:datalayeraccess\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|c:\\users\\skapar\\source\\repos\\kutukutukutuphane\\datalayeraccess\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\datalayeraccess\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{973EBFC7-7020-465A-9BF1-443E02F3152D}|DataLayerAccess\\DataLayerAccess.csproj|solutionrelative:datalayeraccess\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,63 +36,59 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Books.cs",
-              "DocumentMoniker": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\DataLayerAccess\\Books.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\DataLayerAccess\\Books.cs",
               "RelativeDocumentMoniker": "DataLayerAccess\\Books.cs",
-              "ToolTip": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\DataLayerAccess\\Books.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\DataLayerAccess\\Books.cs",
               "RelativeToolTip": "DataLayerAccess\\Books.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T08:17:04.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T08:17:04.969Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Authors.cs",
-              "DocumentMoniker": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\DataLayerAccess\\Authors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\DataLayerAccess\\Authors.cs",
               "RelativeDocumentMoniker": "DataLayerAccess\\Authors.cs",
-              "ToolTip": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\DataLayerAccess\\Authors.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\DataLayerAccess\\Authors.cs",
               "RelativeToolTip": "DataLayerAccess\\Authors.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T08:17:13.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T08:17:13.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ConnectionStrings.cs",
-              "DocumentMoniker": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\DataLayerAccess\\ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\DataLayerAccess\\ConnectionStrings.cs",
               "RelativeDocumentMoniker": "DataLayerAccess\\ConnectionStrings.cs",
-              "ToolTip": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\DataLayerAccess\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\DataLayerAccess\\ConnectionStrings.cs",
               "RelativeToolTip": "DataLayerAccess\\ConnectionStrings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T08:17:25.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T08:17:25.578Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DataModel.cs",
-              "DocumentMoniker": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\DataLayerAccess\\DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\DataLayerAccess\\DataModel.cs",
               "RelativeDocumentMoniker": "DataLayerAccess\\DataModel.cs",
-              "ToolTip": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\DataLayerAccess\\DataModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\DataLayerAccess\\DataModel.cs",
               "RelativeToolTip": "DataLayerAccess\\DataModel.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wDMAAAAiAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwEQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T08:17:36.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T08:17:36.429Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\KutuKutuKutuphane\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\KutuKutuKutuphane\\Program.cs",
               "RelativeDocumentMoniker": "KutuKutuKutuphane\\Program.cs",
-              "ToolTip": "C:\\Users\\Skapar\\source\\repos\\KutuKutuKutuphane\\KutuKutuKutuphane\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Library_DB-main\\KutuKutuKutuphane\\KutuKutuKutuphane\\Program.cs",
               "RelativeToolTip": "KutuKutuKutuphane\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:14:44.985Z",
               "EditorCaption": ""

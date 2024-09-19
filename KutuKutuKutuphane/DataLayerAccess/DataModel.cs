@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -53,7 +54,18 @@ namespace DataLayerAccess
             }
             con.Close();
             return authors;
-            
+
+        }
+        public void AddBook(Books book)
+        {
+            cmd.CommandText = "INSERT INTO Kitaplar(Kitap,Sayfa,KiradaMi) VALUES (@kitap,@sayfa,@kiradaMi)";
+            cmd.Parameters.Clear();
+            cmd.Parameters.AddWithValue("@kitap", book.Name);
+            cmd.Parameters.AddWithValue("@sayfa", book.Page);
+            cmd.Parameters.AddWithValue("@kiradaMi", book.IsRent);
+            con.Open();
+            cmd.ExecuteNonQuery();
+            con.Close();
         }
     }
 }

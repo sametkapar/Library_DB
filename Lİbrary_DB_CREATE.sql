@@ -1,3 +1,8 @@
+CREATE DATABASE Library_DB
+GO
+USE Library_DB
+GO
+
 CREATE TABLE YayinEvleri
 (
 	ID int IDENTITY(100,1),

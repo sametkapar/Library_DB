@@ -8,3 +8,13 @@ C:\Users\Skapar\source\repos\KutuKutuKutuphane\KutuKutuKutuphane\obj\Debug\KutuK
 C:\Users\Skapar\source\repos\KutuKutuKutuphane\KutuKutuKutuphane\obj\Debug\KutuKutu.30BDBFB9.Up2Date
 C:\Users\Skapar\source\repos\KutuKutuKutuphane\KutuKutuKutuphane\obj\Debug\KutuKutuKutuphane.exe
 C:\Users\Skapar\source\repos\KutuKutuKutuphane\KutuKutuKutuphane\obj\Debug\KutuKutuKutuphane.pdb
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\bin\Debug\KutuKutuKutuphane.exe.config
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\bin\Debug\KutuKutuKutuphane.exe
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\bin\Debug\KutuKutuKutuphane.pdb
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\bin\Debug\DataLayerAccess.dll
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\bin\Debug\DataLayerAccess.pdb
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\obj\Debug\KutuKutuKutuphane.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\obj\Debug\KutuKutuKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\obj\Debug\KutuKutu.30BDBFB9.Up2Date
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\obj\Debug\KutuKutuKutuphane.exe
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\KutuKutuKutuphane\obj\Debug\KutuKutuKutuphane.pdb

@@ -4,3 +4,9 @@ C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLay
 C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.csproj.CoreCompileInputs.cache
 C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.dll
 C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.pdb
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\DataLayerAccess\bin\Debug\DataLayerAccess.dll
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\DataLayerAccess\bin\Debug\DataLayerAccess.pdb
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.dll
+C:\Users\user\Desktop\Library_DB-main\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.pdb
