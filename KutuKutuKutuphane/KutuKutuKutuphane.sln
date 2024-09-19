@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuKutuKutuphane", "KutuKutuKutuphane\KutuKutuKutuphane.csproj", "{0CADB496-5454-4839-A594-121607AE0EE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayerAccess", "DataLayerAccess\DataLayerAccess.csproj", "{973EBFC7-7020-465A-9BF1-443E02F3152D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CADB496-5454-4839-A594-121607AE0EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CADB496-5454-4839-A594-121607AE0EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CADB496-5454-4839-A594-121607AE0EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CADB496-5454-4839-A594-121607AE0EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973EBFC7-7020-465A-9BF1-443E02F3152D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973EBFC7-7020-465A-9BF1-443E02F3152D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973EBFC7-7020-465A-9BF1-443E02F3152D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973EBFC7-7020-465A-9BF1-443E02F3152D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C6E571-0010-405F-826B-DBCCE6628D7F}
+	EndGlobalSection
+EndGlobal

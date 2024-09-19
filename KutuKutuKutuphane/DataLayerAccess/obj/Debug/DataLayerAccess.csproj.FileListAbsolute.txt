@@ -1,0 +1,6 @@
+C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\bin\Debug\DataLayerAccess.dll
+C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\bin\Debug\DataLayerAccess.pdb
+C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.dll
+C:\Users\Skapar\source\repos\KutuKutuKutuphane\DataLayerAccess\obj\Debug\DataLayerAccess.pdb
